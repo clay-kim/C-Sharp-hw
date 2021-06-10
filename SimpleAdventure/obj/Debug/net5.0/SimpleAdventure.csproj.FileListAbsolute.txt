@@ -1,0 +1,15 @@
+/Users/gc.clay/Documents/CSD228/SimpleAdventure/obj/Debug/net5.0/SimpleAdventure.csprojAssemblyReference.cache
+/Users/gc.clay/Documents/CSD228/SimpleAdventure/obj/Debug/net5.0/SimpleAdventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gc.clay/Documents/CSD228/SimpleAdventure/obj/Debug/net5.0/SimpleAdventure.AssemblyInfoInputs.cache
+/Users/gc.clay/Documents/CSD228/SimpleAdventure/obj/Debug/net5.0/SimpleAdventure.AssemblyInfo.cs
+/Users/gc.clay/Documents/CSD228/SimpleAdventure/obj/Debug/net5.0/SimpleAdventure.csproj.CoreCompileInputs.cache
+/Users/gc.clay/Documents/CSD228/SimpleAdventure/bin/Debug/net5.0/SimpleAdventure.deps.json
+/Users/gc.clay/Documents/CSD228/SimpleAdventure/bin/Debug/net5.0/SimpleAdventure.runtimeconfig.json
+/Users/gc.clay/Documents/CSD228/SimpleAdventure/bin/Debug/net5.0/SimpleAdventure.runtimeconfig.dev.json
+/Users/gc.clay/Documents/CSD228/SimpleAdventure/bin/Debug/net5.0/SimpleAdventure.dll
+/Users/gc.clay/Documents/CSD228/SimpleAdventure/bin/Debug/net5.0/ref/SimpleAdventure.dll
+/Users/gc.clay/Documents/CSD228/SimpleAdventure/bin/Debug/net5.0/SimpleAdventure.pdb
+/Users/gc.clay/Documents/CSD228/SimpleAdventure/obj/Debug/net5.0/SimpleAdventure.dll
+/Users/gc.clay/Documents/CSD228/SimpleAdventure/obj/Debug/net5.0/ref/SimpleAdventure.dll
+/Users/gc.clay/Documents/CSD228/SimpleAdventure/obj/Debug/net5.0/SimpleAdventure.pdb
+/Users/gc.clay/Documents/CSD228/SimpleAdventure/obj/Debug/net5.0/SimpleAdventure.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/gc.clay/.dotnet/store/|arch|/|tfm|",
+      "/Users/gc.clay/.nuget/packages"
+    ]
+  }
+}
