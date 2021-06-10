@@ -1,0 +1,15 @@
+/Users/gc.clay/Documents/CSD228/Assignment6/obj/Debug/net5.0/Assignment6.csprojAssemblyReference.cache
+/Users/gc.clay/Documents/CSD228/Assignment6/obj/Debug/net5.0/Assignment6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gc.clay/Documents/CSD228/Assignment6/obj/Debug/net5.0/Assignment6.AssemblyInfoInputs.cache
+/Users/gc.clay/Documents/CSD228/Assignment6/obj/Debug/net5.0/Assignment6.AssemblyInfo.cs
+/Users/gc.clay/Documents/CSD228/Assignment6/obj/Debug/net5.0/Assignment6.csproj.CoreCompileInputs.cache
+/Users/gc.clay/Documents/CSD228/Assignment6/bin/Debug/net5.0/Assignment6.deps.json
+/Users/gc.clay/Documents/CSD228/Assignment6/bin/Debug/net5.0/Assignment6.runtimeconfig.json
+/Users/gc.clay/Documents/CSD228/Assignment6/bin/Debug/net5.0/Assignment6.runtimeconfig.dev.json
+/Users/gc.clay/Documents/CSD228/Assignment6/bin/Debug/net5.0/Assignment6.dll
+/Users/gc.clay/Documents/CSD228/Assignment6/bin/Debug/net5.0/ref/Assignment6.dll
+/Users/gc.clay/Documents/CSD228/Assignment6/bin/Debug/net5.0/Assignment6.pdb
+/Users/gc.clay/Documents/CSD228/Assignment6/obj/Debug/net5.0/Assignment6.dll
+/Users/gc.clay/Documents/CSD228/Assignment6/obj/Debug/net5.0/ref/Assignment6.dll
+/Users/gc.clay/Documents/CSD228/Assignment6/obj/Debug/net5.0/Assignment6.pdb
+/Users/gc.clay/Documents/CSD228/Assignment6/obj/Debug/net5.0/Assignment6.genruntimeconfig.cache
